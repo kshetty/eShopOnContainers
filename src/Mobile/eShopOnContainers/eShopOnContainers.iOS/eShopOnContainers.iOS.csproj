@@ -125,7 +125,6 @@
     <BundleResource Include="Resources\menu_campaigns.png" />
     <BundleResource Include="Resources\menu_campaigns%402x.png" />
     <BundleResource Include="Resources\menu_campaigns%403x.png" />
-    <None Include="packages.config" />
     <Compile Include="Services\LocationServiceImplementation.cs" />
     <Compile Include="Services\PermissionsService.cs" />
     <Compile Include="Services\GeolocationSingleUpdateDelegate.cs" />
